@@ -135,7 +135,7 @@ Topics in ML4T to study for Midterm - feel free to add your notes!
      - Risk Adjusted Reward (Sharpe Ratio)
 ## Company Worth 
   - [ ] Instrinsic value - Future Value/ Discount Rate
-  - [ ] Book Value - Total assets - Intangible assets + Liabilities
+  - [ ] Book Value = Total assets - Intangible assets - Liabilities
   - [ ] Market Capitilization - # of shares * price of shares
   - [ ] Information can affect stocks:
       - Company specific
